@@ -2,7 +2,7 @@
 
 
 "Hi, I'm Gursimar Singh, a Third Year Computer Science undergraduate student, currently a trainee at [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of Mr. Vimal Daga sir. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. 
-Along with it I'm also a Google Cloud Facilitator. I'm also a part of two semester program on Quantum Computing offered bt The Coding School.
+Along with it I'm also a Google Cloud Facilitator. I'm also a part of two semester program on Quantum Computing offered by The Coding School in collaboration with IBM Quantum.
 I like exploring various tools and technologies."
 
 <br>
