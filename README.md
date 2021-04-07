@@ -1,7 +1,14 @@
 ## Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 
-"Hi, I'm Gursimar Singh, a Third Year Computer Science undergraduate student, currently a trainee at [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of Mr. Vimal Daga sir. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. 
+```yaml
+Bio:
+    Name: "Gursimar Singh"
+    Education: "Third year Computer Science Undergradute Student"
+    Location: "Hyderabad, Telangana, India"
+```
+
+"Currently a trainee at [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of Mr. Vimal Daga sir. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. 
 Along with it I'm also a Google Cloud Facilitator. I'm also a part of two semester program on Quantum Computing offered by The Coding School in collaboration with IBM Quantum.
 I like exploring various tools and technologies."
 
@@ -34,8 +41,7 @@ I like exploring various tools and technologies."
  
  <br>
  
-### Also, checkout my portfolio website 
-[<b>https://gursimar.netlify.com</b>](https://gursimar.netlify.com)
+### Also, checkout my portfolio website : https://gursimar.netlify.com 
 <img src="https://image.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" width="15%" align=right>
 
 <br>
@@ -48,5 +54,5 @@ I like exploring various tools and technologies."
 </br>
 [![Gmail Badge](https://img.shields.io/badge/-gursimarsm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gursimarsm@gmail.com)](mailto:gursimarsm@gmail.com)
 <br>
-[<b>Check out my blogs on medium </b>](https://gursimar27.medium.com)
+Check out my blogs on medium : https://gursimar27.medium.com
 </br>
