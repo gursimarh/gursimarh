@@ -1,5 +1,4 @@
-## Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
-
+<h1  align="center">  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 ```yaml
 Bio:
@@ -14,7 +13,6 @@ I like exploring various tools and technologies."
 
 <br>
 
-<img align="center" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 
 ### Technical Skills 🛠 
 
@@ -40,19 +38,15 @@ I like exploring various tools and technologies."
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
  
  <br>
- 
-### Also, checkout my portfolio website : https://gursimar.netlify.com 
-<img src="https://image.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" width="15%" align=right>
-
-<br>
-
-<br>
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-GursimarSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gursimar-/)](https://www.linkedin.com/in/gursimar-/) 
-</br>
-[![Gmail Badge](https://img.shields.io/badge/-gursimarsm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gursimarsm@gmail.com)](mailto:gursimarsm@gmail.com)
-<br>
-Check out my blogs on medium : https://gursimar27.medium.com
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/gursimar-/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://medium.com/@gursimar27"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+  <a href="https://gursimar.netlify.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="mailto:gursimarsm@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+</p>
+  <!---   <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> --->
 </br>
