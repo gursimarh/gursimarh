@@ -35,7 +35,8 @@ I like exploring various tools and technologies."
  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
- <br>
+ 
+<br>
 
 <b><i>Random dev joke for you! </i></b>
 
