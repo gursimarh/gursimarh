@@ -37,6 +37,10 @@ I like exploring various tools and technologies."
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
  <br>
 
+<b><i>Random dev joke for you! </i></b>
+
+<a href="https://readme-jokes.vercel.app"> <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
 ### Connect with me:
 
 <p align="center">
