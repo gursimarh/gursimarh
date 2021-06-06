@@ -40,7 +40,7 @@ I like exploring various tools and technologies."
 
 <b><i>Random dev joke for you! </i></b>
 
-<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> <!-- <a href="https://readme-jokes.vercel.app"> --> 
 
 ### Connect with me:
 
