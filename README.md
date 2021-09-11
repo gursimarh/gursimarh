@@ -8,8 +8,9 @@ Bio:
     Location: "Hyderabad, Telangana, India"
 ```
 
-"Currently a trainee at [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of Mr. Vimal Daga sir. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. 
-Along with it I'm also a Google Cloud Facilitator. I have also been a part of a two semester program on Quantum Computing offered by The Coding School in collaboration with IBM Quantum.
+"Currently a technical volunteer at [ARTH THE SCHOOL OF TECHNOLOGIES](https://rightarth.com/) under the mentorship of Mr. Vimal Daga sir. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. 
+
+Along with it I'm also the DevOps/Cloud Lead at Google Developers Student Club and IBM Z Ambassador. I have been Google Cloud Facilitator for the year 2021. I have also been a part of a two semester program on Quantum Computing offered by The Coding School in collaboration with IBM Quantum.
 I like exploring various tools and technologies."
 <br>
 
