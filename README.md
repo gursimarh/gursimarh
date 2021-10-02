@@ -5,7 +5,7 @@
 ```yaml
 Bio:
     Name: "Gursimar Singh"
-    Education: "Third year Computer Science Undergradute Student"
+    Education: "Computer Science Undergradute Student"
     Location: "Hyderabad, Telangana, India"
 ```
 
