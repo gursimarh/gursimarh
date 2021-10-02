@@ -1,5 +1,6 @@
 <h1  align="center">  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
+<hr/>
 
 ```yaml
 Bio:
@@ -8,10 +9,11 @@ Bio:
     Location: "Hyderabad, Telangana, India"
 ```
 
-"Currently the DevOps/Cloud Lead at Google Developers Student Club and IBM Z Ambassador. I have been Google Cloud Facilitator for the year 2021. I have also been a part of a two semester program on Quantum Computing offered by The Coding School in collaboration with IBM Quantum. I'm also a trainee at ARTH - The School of Technologies under Mr. Vimal Daga. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I like exploring various tools and technologies."
+<div style='text-align: justify;'> "Currently the DevOps/Cloud Lead at Google Developers Student Club and IBM Z Ambassador. I have been Google Cloud Facilitator for the year 2021. I have also been a part of a two semester program on Quantum Computing offered by The Coding School in collaboration with IBM Quantum. I'm also a trainee at ARTH - The School of Technologies under Mr. Vimal Daga. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I like exploring various tools and technologies." </div>
 <br>
+<hr/>
 
-### Technical Skills 🛠 
+<h2> Technical Skills 🛠 </h2>
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -60,12 +62,13 @@ Bio:
  
  
 <br>
-
-<b><i>Random dev joke for you! </i></b>
+<hr/>
+<h2><i>Random dev joke for you! </i></h2>
 
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a> <!-- <a href="https://readme-jokes.vercel.app"> --> 
 
-### Connect with me:
+<hr/>
+<h2> Connect with me: </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gursimarh/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
