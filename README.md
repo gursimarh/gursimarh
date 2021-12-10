@@ -9,7 +9,6 @@ Bio:
     Location: "Hyderabad, Telangana, India"
 ```
 
-<div style='text-align: justify;'> "Currently the DevOps/Cloud Lead at Google Developers Student Club and IBM Z Ambassador. I have been Google Cloud Facilitator for the year 2021. I have also been a part of a two semester program on Quantum Computing offered by The Coding School in collaboration with IBM Quantum. I'm also a trainee at ARTH - The School of Technologies under Mr. Vimal Daga. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I like exploring various tools and technologies." </div>
 <br>
 <hr/>
 
