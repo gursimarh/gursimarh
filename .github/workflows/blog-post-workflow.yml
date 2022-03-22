@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          template:  " $newline - $randomEmoji(🔥,🚀,👨‍💻) | [$title]($url) | $description "
+          template: "$newline - $randomEmoji(🔥,🚀,👨‍💻) <a href='$url'>$title</a> | 🏷️ **Tags:** $categories | 📅 **Data**: $date"
           feed_list: "https://medium.com/feed/@gursimar27"
