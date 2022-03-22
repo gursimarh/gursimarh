@@ -87,6 +87,7 @@ Bio:
 - [Modernize the Linux Terminal and Shell Scripts by adding GUI](https://medium.com/geekculture/modernize-the-linux-terminal-and-shell-scripts-by-adding-gui-729fdedb4b1e?source=rss-439ec3383262------2)
 - [Red Hat Enterprise Linux 8 &lpar;RHCSA&rpar;](https://faun.pub/red-hat-enterprise-linux-8-rhcsa-636bffd1f1db?source=rss-439ec3383262------2)
 - [What is Dynamic Programming?](https://python.plainenglish.io/what-is-dynamic-programming-228f37b9dc5a?source=rss-439ec3383262------2)
+- [Terraform Module for Kubernetes Cluster with Google Anthos](https://faun.pub/terraform-module-for-kubernetes-cluster-with-google-anthos-5f714ca3e6ff?source=rss-439ec3383262------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
