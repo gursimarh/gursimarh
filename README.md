@@ -24,7 +24,7 @@ Bio:
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a>
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<a> <img src="https://th.bing.com/th/id/R.73224ff83996ff1edc9c3532e965d393?rik=YgYv4DaVqfRBwg&riu=http%3a%2f%2fwww.techcentral.ie%2fwp-content%2fuploads%2f2015%2f08%2fCOBOL_logo_web.jpg&ehk=Oy%2fT%2fRJGTIU2IrM3JY%2ftUCOO9l6u4%2f4D7XWVyiQrpm8%3d&risl=&pid=ImgRaw&r=0" width="60" height="30"/> </a>
+<a> <img src="https://th.bing.com/th/id/R.73224ff83996ff1edc9c3532e965d393?rik=YgYv4DaVqfRBwg&riu=http%3a%2f%2fwww.techcentral.ie%2fwp-content%2fuploads%2f2015%2f08%2fCOBOL_logo_web.jpg&ehk=Oy%2fT%2fRJGTIU2IrM3JY%2ftUCOO9l6u4%2f4D7XWVyiQrpm8%3d&risl=&pid=ImgRaw&r=0" width="70" height="25"/> </a>
 
 <h3 align="left">Cloud & DevOps:</h3>
 
@@ -48,8 +48,7 @@ Bio:
 
 <h3 align="left">Big Data:</h3>
 
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
-<a href="https://hadoop.apache.org/" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/70017872/159570562-720d5f46-5729-4324-a3a9-c8a13dd4ef4e.png)" alt="hadoop" width="80" height="40"/> </a>
+<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/70017872/159570562-720d5f46-5729-4324-a3a9-c8a13dd4ef4e.png" alt="hadoop" width="90" height="30"/> </a>
 ![Apache Spark](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
 
 
@@ -64,6 +63,7 @@ Bio:
 
 <h3 align="left">Web Development:</h3>
 
+<a> <img src="https://th.bing.com/th/id/R.a89da1f0dab6e74fa8e0075ed72b0aa3?rik=9jxZkxIFyVUhDA&riu=http%3a%2f%2fandypanix.com%2fsites%2fandypanix.com%2ffiles%2f134%2fhttpdlogowide.png&ehk=OfhOiYPyQidg5IH2zahJkpPX1%2b%2fcHH%2bB5Zi3vlLEHJI%3d&risl=&pid=ImgRaw&r=0" width="65" height="35"/> </a>
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
