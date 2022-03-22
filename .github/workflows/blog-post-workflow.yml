@@ -1,24 +1,17 @@
-name: "📚 latest Blog"
-
+name: Latest blog post workflow
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 */24 * * *" # Runs Every 24 Hours
+  schedule: # Run workflow automatically
+    - cron: '* */24 * * *' # Runs
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
 jobs:
-  update_blogs:
-    name: "Update With Latest Blogs"
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-
-      - name: "📚  Medium Updater"
-        uses: "gursimarh/blog-post-workflow@master"
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in medium posts
+        uses: gursimarh/blog-post-workflow@master
         with:
-          USERNAME: "Gursimar" # Username
-          COUNT: 4 # MAX Visisble
-          STYLE: "blog-left"
-          BLOG_URL: "https://gursimar27.medium.com/feed"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          feed_list: "https://medium.com/feed/@gursimar27"
