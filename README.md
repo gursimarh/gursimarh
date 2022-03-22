@@ -5,6 +5,7 @@
 ```yaml
 Bio:
     Name: "Gursimar Singh"
+    Role: "Software Engineer Intern at Kickback Space Inc."
     Education: "Computer Science Undergradute Student"
     Location: "Hyderabad, Telangana, India"
 ```
@@ -61,18 +62,12 @@ Bio:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-<img src="https://login.salesforce.com/img/logo190.png" width="100">
+<img src="https://login.salesforce.com/img/logo190.png" width="95">
 
-
- 
- 
 <br>
-<hr/>
-<h2><i>Random dev joke for you! </i></h2>
 
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a> <!-- <a href="https://readme-jokes.vercel.app"> --> 
+--- 
 
-<hr/>
 <h2> Connect with me: </h2>
 
 <p align="center">
@@ -83,3 +78,15 @@ Bio:
 </p>
   <!---   <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> --->
 
+
+
+--- 
+### ✍️ Blog Posts : 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<hr/>
+
+<h2><i>Random dev joke for you! </i></h2>
+
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a> <!-- <a href="https://readme-jokes.vercel.app"> --> 
