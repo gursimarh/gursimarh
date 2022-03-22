@@ -83,12 +83,11 @@ Bio:
 --- 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Essentials to Work like a Pro](https://faun.pub/linux-essentials-to-work-like-a-pro-c8ad5de40e8b?source=rss-439ec3383262------2)
-- [Modernize the Linux Terminal and Shell Scripts by adding GUI](https://medium.com/geekculture/modernize-the-linux-terminal-and-shell-scripts-by-adding-gui-729fdedb4b1e?source=rss-439ec3383262------2)
-- [Red Hat Enterprise Linux 8 &lpar;RHCSA&rpar;](https://faun.pub/red-hat-enterprise-linux-8-rhcsa-636bffd1f1db?source=rss-439ec3383262------2)
-- [What is Dynamic Programming?](https://python.plainenglish.io/what-is-dynamic-programming-228f37b9dc5a?source=rss-439ec3383262------2)
-- [Terraform Module for Kubernetes Cluster with Google Anthos](https://faun.pub/terraform-module-for-kubernetes-cluster-with-google-anthos-5f714ca3e6ff?source=rss-439ec3383262------2)
-<!-- BLOG-POST-LIST:END -->
+ - 👨‍💻 <a href='https://faun.pub/linux-essentials-to-work-like-a-pro-c8ad5de40e8b?source=rss-439ec3383262------2'>Linux Essentials to Work like a Pro</a> | 🏷️ **Tags:** administration, aws, linux, networking, redhat-linux | 📅 **Data**: Mon Jan 24 2022 5:55 AM
+ - 🔥 <a href='https://medium.com/geekculture/modernize-the-linux-terminal-and-shell-scripts-by-adding-gui-729fdedb4b1e?source=rss-439ec3383262------2'>Modernize the Linux Terminal and Shell Scripts by adding GUI</a> | 🏷️ **Tags:** zenity, python, shell, gui, linux | 📅 **Data**: Fri Sep 17 2021 6:19 PM
+ - 🚀 <a href='https://faun.pub/red-hat-enterprise-linux-8-rhcsa-636bffd1f1db?source=rss-439ec3383262------2'>Red Hat Enterprise Linux 8 &lpar;RHCSA&rpar;</a> | 🏷️ **Tags:** exam, redhat-linux, linux, shell-script, rhcsa | 📅 **Data**: Sat Aug 21 2021 10:08 AM
+ - 🚀 <a href='https://python.plainenglish.io/what-is-dynamic-programming-228f37b9dc5a?source=rss-439ec3383262------2'>What is Dynamic Programming?</a> | 🏷️ **Tags:** software-development, programming, data-structures, algorithms, computer-science | 📅 **Data**: Tue Aug 17 2021 5:23 PM
+ - 🚀 <a href='https://faun.pub/terraform-module-for-kubernetes-cluster-with-google-anthos-5f714ca3e6ff?source=rss-439ec3383262------2'>Terraform Module for Kubernetes Cluster with Google Anthos</a> | 🏷️ **Tags:** infrastructure-as-code, kubernetes, anthos, terraform, google-cloud-platform | 📅 **Data**: Thu Jul 29 2021 6:00 PM<!-- BLOG-POST-LIST:END -->
 
 <hr/>
 
