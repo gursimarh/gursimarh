@@ -16,9 +16,9 @@ jobs:
       - name: "📚  Medium Updater"
         uses: "gursimarh/blog-post-workflow@master"
         with:
-          USERNAME: "" # Username
+          USERNAME: "Gursimar" # Username
           COUNT: 4 # MAX Visisble
           STYLE: "blog-left"
-          BLOG_URL: "https://gursimar27.medium.com/"
+          BLOG_URL: "https://gursimar27.medium.com/feed"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
