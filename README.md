@@ -22,6 +22,7 @@ Bio:
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a>
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <a> <img src="https://th.bing.com/th/id/R.73224ff83996ff1edc9c3532e965d393?rik=YgYv4DaVqfRBwg&riu=http%3a%2f%2fwww.techcentral.ie%2fwp-content%2fuploads%2f2015%2f08%2fCOBOL_logo_web.jpg&ehk=Oy%2fT%2fRJGTIU2IrM3JY%2ftUCOO9l6u4%2f4D7XWVyiQrpm8%3d&risl=&pid=ImgRaw&r=0" width="70" height="25"/> </a>
@@ -81,6 +82,7 @@ Bio:
 
 <h3 align="left">Databases:</h3>
 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
