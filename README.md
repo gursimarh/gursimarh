@@ -5,7 +5,7 @@
 ```yaml
 Bio:
     Name: "Gursimar Singh"
-    Role: "Software Engineer Intern at Kickback Space Inc."
+    Role: "Software Engineer Intern at Kickback Space Inc., USA"
     Education: "Computer Science Undergradute Student"
     Location: "Hyderabad, Telangana, India"
 ```
