@@ -1,6 +1,7 @@
 <h1  align="center">  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<img width="40%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
-<hr/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img width="33%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
+
 
 ```yaml
 Bio:
@@ -8,10 +9,9 @@ Bio:
     Role: "Software Engineer Intern at Kickback Space Inc., USA"
     Education: "Computer Science Undergradute Student"
     Location: "Hyderabad, Telangana, India"
+    Fun Fact: "Amid Blogger & Photographer"
 ```
-
-<br>
-<hr/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2> Technical Skills 🛠 </h2>
 
 <h3 align="left">Programming Languages:</h3>
@@ -105,7 +105,7 @@ Bio:
 ![Salesforce](https://img.shields.io/static/v1?style=for-the-badge&message=Salesforce&color=00A1E0&logo=Salesforce&logoColor=FFFFFF&label=)
 <br>
 
---- 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2> Connect with me: </h2>
 
@@ -118,8 +118,8 @@ Bio:
   <!---   <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> --->
 
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
---- 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
  - [Linux Essentials to Work like a Pro](https://faun.pub/linux-essentials-to-work-like-a-pro-c8ad5de40e8b?source=rss-439ec3383262------2) - 
@@ -128,7 +128,7 @@ Bio:
  - [What is Dynamic Programming?](https://python.plainenglish.io/what-is-dynamic-programming-228f37b9dc5a?source=rss-439ec3383262------2) - 
  - [Terraform Module for Kubernetes Cluster with Google Anthos](https://faun.pub/terraform-module-for-kubernetes-cluster-with-google-anthos-5f714ca3e6ff?source=rss-439ec3383262------2) - <!-- BLOG-POST-LIST:END -->
 
-<hr/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2><i>Random dev joke for you! </i></h2>
 
