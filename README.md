@@ -47,7 +47,7 @@ Bio:
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 
-<h3 align="left">Big Data:</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> Big Data:</h3>
 
 <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/70017872/159570562-720d5f46-5729-4324-a3a9-c8a13dd4ef4e.png" alt="hadoop" width="90" height="30"/> </a>
 ![Apache Spark](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
