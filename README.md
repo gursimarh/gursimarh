@@ -7,7 +7,7 @@
 Bio:
     Name: "Gursimar Singh"
     Role: "Author @ freeCodeCamp.org"
-    Education: "Computer Science Undergradute Student"
+    Education: "Computer Science Engineering"
     Location: "Hyderabad, Telangana, India"
     Fun Fact: "Amid Blogger & Photographer"
     
