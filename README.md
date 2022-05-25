@@ -6,12 +6,11 @@
 ```yaml
 Bio:
     Name: "Gursimar Singh"
-    Role: "Software Engineer Intern at Kickback Space Inc., USA"
+    Role: "Author @ freeCodeCamp.org"
     Education: "Computer Science Undergradute Student"
     Location: "Hyderabad, Telangana, India"
     Fun Fact: "Amid Blogger & Photographer"
     
-    Author @ freeCodeCamp.org
 ```
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2> Technical Skills 🛠 </h2>
